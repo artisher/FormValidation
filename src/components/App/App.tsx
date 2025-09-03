@@ -1,5 +1,5 @@
 import { NavBar } from "../NavBar/NavBar";
-import ReactHookForm from "../ReactHookForm/ReactHookForm";
+
 import Zod from "../Zod/Zod";
 
 
@@ -9,7 +9,6 @@ function App() {
     return (
         <div>
             <NavBar />
-            <ReactHookForm />
             <hr />
             <Zod />
 
